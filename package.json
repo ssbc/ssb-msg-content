@@ -1,6 +1,6 @@
 {
   "name": "ssb-msg-content",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "USAGE: common-readme [-r|--repo REPO-NAME] [-l|--license LICENSE]",
   "main": "index.js",
   "scripts": {
